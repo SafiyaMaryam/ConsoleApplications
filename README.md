@@ -65,10 +65,9 @@ Push to branch (git push origin feature/AmazingFeature)
 
 Open Pull Request
 
-📄** License**
-MIT License - see LICENSE file.
+
 
 ⭐ Show Support
 Give a ⭐ if this helps you learn JDBC!
 
-Built with ❤️ for Java backend learners
+Built with ❤️ for Java backend learning
